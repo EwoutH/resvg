@@ -1,5 +1,6 @@
 ## resvg
 [![Build Status](https://travis-ci.org/RazrFalcon/resvg.svg?branch=master)](https://travis-ci.org/RazrFalcon/resvg)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/RazrFalcon/resvg?branch=master&svg=true)](https://ci.appveyor.com/project/RazrFalcon/resvg)
 [![Crates.io](https://img.shields.io/crates/v/resvg.svg)](https://crates.io/crates/resvg)
 [![Documentation](https://docs.rs/resvg/badge.svg)](https://docs.rs/resvg)
 
